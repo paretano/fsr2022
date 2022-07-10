@@ -14,6 +14,17 @@ rosrun geometric_controller geometric_controller_node
 ```
 
 
+Requirement:
+```
+-ROS-Noetic
+-Gazebo
+-mav_msgs
+-gazebo_msgs
+-sensor_msgs
+```
+
+
+
 ## Video
 
 
