@@ -1,0 +1,4 @@
+ <launch>
+ <node name="map_server" pkg="map_server" type="map_server" args="$(find iris_model)/map/mymap.yaml"/>
+<!--<node pkg="tf" type="static_transform_publisher" name="map" args="-10.000000, -10.000000, 0.0 0 0 0 /map test 100" /> !-->
+ </launch>
